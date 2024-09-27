@@ -1,0 +1,451 @@
+Player,Age,Ast,CrdR,CrdY,Gls,Min,MP,Nation,PK,Pos,Starts,Team
+Moussa Diaby,25,4.0,0.0,1.0,0.0,270.0,3,fr FRA,0.0,MF,3,Al-Ittihad
+Fabinho,30,0.0,0.0,0.0,1.0,270.0,3,br BRA,0.0,MF,3,Al-Ittihad
+Hassan Kadesh,32,0.0,0.0,1.0,0.0,270.0,3,sa KSA,0.0,DF,3,Al-Ittihad
+Predrag Rajković,28,0.0,0.0,0.0,0.0,270.0,3,rs SRB,0.0,GK,3,Al-Ittihad
+Karim Benzema,36,0.0,0.0,0.0,4.0,269.0,3,fr FRA,0.0,FW,3,Al-Ittihad
+Houssem Aouar,26,0.0,0.0,1.0,3.0,249.0,3,dz ALG,1.0,MF,3,Al-Ittihad
+N'Golo Kanté,33,0.0,0.0,1.0,0.0,244.0,3,fr FRA,0.0,MF,3,Al-Ittihad
+Saad Al Mosa,21,0.0,0.0,0.0,0.0,244.0,3,sa KSA,0.0,DF,3,Al-Ittihad
+Fawaz Al-Sqoor,28,0.0,0.0,1.0,1.0,208.0,3,sa KSA,0.0,DF,3,Al-Ittihad
+Muhannad Shenqeeti,25,2.0,0.0,0.0,0.0,187.0,3,sa KSA,0.0,DF,1,Al-Ittihad
+Abdulrahman Al-Aboud,29,1.0,0.0,0.0,0.0,122.0,3,sa KSA,0.0,MF,1,Al-Ittihad
+Danilo Pereira,33,0.0,0.0,0.0,0.0,90.0,1,pt POR,0.0,DF,1,Al-Ittihad
+Steven Bergwijn,26,2.0,0.0,0.0,0.0,64.0,1,nl NED,0.0,MF,1,Al-Ittihad
+Ahmed Al Ghamdi,23,0.0,0.0,0.0,0.0,60.0,1,sa KSA,0.0,MF,1,Al-Ittihad
+Luiz Felipe,27,0.0,0.0,0.0,0.0,19.0,1,it ITA,0.0,DF,1,Al-Ittihad
+Saleh Al-Shehri,30,0.0,0.0,0.0,1.0,57.0,3,sa KSA,0.0,FW,0,Al-Ittihad
+Abdulelah Al-Amri,27,0.0,0.0,0.0,0.0,26.0,1,sa KSA,0.0,DF,0,Al-Ittihad
+Hamed Al-Ghamdi,25,0.0,0.0,0.0,0.0,26.0,1,sa KSA,0.0,MF,0,Al-Ittihad
+Muath Fagihy,22,0.0,0.0,0.0,0.0,24.0,1,sa KSA,0.0,DF,0,Al-Ittihad
+Abdulaziz Al-Bishi,30,0.0,0.0,0.0,0.0,1.0,1,sa KSA,0.0,MF,0,Al-Ittihad
+Mohammed Fallatah,17,,,,,,0,sa KSA,,MF,0,Al-Ittihad
+Abduleallah Hawsawi,-1,,,,,,0,sa KSA,,MF,0,Al-Ittihad
+Yaseen Al Jaber,18,,,,,,0,sa KSA,,DF,0,Al-Ittihad
+Mohammed Al-Mahasneh,-1,,,,,,0,sa KSA,,GK,0,Al-Ittihad
+Yassine Bounou,33,0.0,0.0,0.0,0.0,270.0,3,ma MAR,0.0,GK,3,Al-Hilal
+Ali Al-Bulaihi,34,0.0,0.0,0.0,0.0,270.0,3,sa KSA,0.0,DF,3,Al-Hilal
+Aleksandar Mitrović,30,0.0,0.0,0.0,6.0,270.0,3,rs SRB,0.0,FW,3,Al-Hilal
+Salem Al-Dawsari,33,2.0,0.0,0.0,1.0,269.0,3,sa KSA,0.0,MF,3,Al-Hilal
+Sergej Milinković-Savić,29,1.0,0.0,0.0,1.0,269.0,3,rs SRB,0.0,MF,3,Al-Hilal
+Kalidou Koulibaly,33,0.0,0.0,1.0,0.0,268.0,3,sn SEN,0.0,DF,3,Al-Hilal
+Rúben Neves,27,0.0,0.0,1.0,0.0,250.0,3,pt POR,0.0,MF,3,Al-Hilal
+Yasser Al-Shahrani,32,0.0,0.0,0.0,0.0,183.0,3,sa KSA,0.0,DF,2,Al-Hilal
+Renan Lodi,26,0.0,0.0,1.0,0.0,177.0,2,br BRA,0.0,DF,2,Al-Hilal
+Mohammed Al Qahtani,22,0.0,0.0,0.0,0.0,171.0,3,sa KSA,0.0,MF,2,Al-Hilal
+Abdullah Al Hamdan,25,2.0,0.0,0.0,0.0,123.0,2,sa KSA,0.0,MF,2,Al-Hilal
+Hamad Al Tuhayfan,25,0.0,0.0,0.0,0.0,107.0,3,sa KSA,0.0,DF,1,Al-Hilal
+João Cancelo,30,0.0,0.0,1.0,0.0,78.0,1,pt POR,0.0,DF,1,Al-Hilal
+Marcos Leonardo,21,0.0,0.0,0.0,0.0,78.0,1,br BRA,0.0,MF,1,Al-Hilal
+Malcom,27,0.0,0.0,0.0,0.0,70.0,1,br BRA,0.0,MF,1,Al-Hilal
+Musab Al Juwayr,21,1.0,0.0,0.0,1.0,50.0,2,sa KSA,0.0,MF,0,Al-Hilal
+Nasser Al-Dawsari,25,0.0,0.0,0.0,0.0,40.0,3,sa KSA,0.0,"DF,MF",0,Al-Hilal
+Mohamed Kanno,29,0.0,0.0,0.0,0.0,21.0,2,sa KSA,0.0,MF,0,Al-Hilal
+Mohammed Al-Breik,32,0.0,0.0,0.0,0.0,3.0,2,sa KSA,0.0,DF,0,Al-Hilal
+Hassan Al Tambakti,25,0.0,0.0,0.0,0.0,3.0,2,sa KSA,0.0,DF,0,Al-Hilal
+Khalifah Al Dawsari,25,,,,,,0,sa KSA,,DF,0,Al-Hilal
+Mohammed Al-Owais,32,,,,,,0,sa KSA,,GK,0,Al-Hilal
+Abdullah Madu,31,0.0,0.0,0.0,0.0,360.0,4,sa KSA,0.0,DF,4,Al-Ettifaq
+Marek Rodák,27,0.0,0.0,0.0,0.0,360.0,4,sk SVK,0.0,GK,4,Al-Ettifaq
+Georginio Wijnaldum,33,0.0,0.0,0.0,0.0,360.0,4,nl NED,0.0,MF,4,Al-Ettifaq
+Moussa Dembélé,28,1.0,0.0,1.0,2.0,343.0,4,fr FRA,0.0,FW,4,Al-Ettifaq
+Karl Toko Ekambi,32,1.0,0.0,0.0,0.0,342.0,4,cm CMR,0.0,FW,4,Al-Ettifaq
+Radi Al Otaibi,24,0.0,0.0,0.0,0.0,328.0,4,sa KSA,0.0,DF,4,Al-Ettifaq
+Seko Fofana,29,0.0,0.0,1.0,0.0,320.0,4,ci CIV,0.0,MF,4,Al-Ettifaq
+Madallah Al-Olayan,30,0.0,0.0,1.0,0.0,307.0,4,sa KSA,0.0,DF,4,Al-Ettifaq
+Abdullah Khateeb,29,0.0,0.0,0.0,0.0,295.0,4,sa KSA,0.0,DF,4,Al-Ettifaq
+Vitinho,30,0.0,0.0,1.0,0.0,260.0,4,br BRA,0.0,"MF,FW",4,Al-Ettifaq
+Abdullah Radif,21,0.0,0.0,0.0,1.0,129.0,2,sa KSA,0.0,FW,2,Al-Ettifaq
+Álvaro Medrán,30,0.0,0.0,0.0,0.0,148.0,4,es ESP,0.0,MF,1,Al-Ettifaq
+Demarai Gray,28,0.0,0.0,0.0,0.0,108.0,2,jm JAM,0.0,FW,1,Al-Ettifaq
+Meshal Sibyani,23,0.0,0.0,0.0,0.0,92.0,4,sa KSA,0.0,DF,0,Al-Ettifaq
+Mohamed Abdulrahman,21,0.0,0.0,0.0,0.0,77.0,3,sa KSA,0.0,DF,0,Al-Ettifaq
+João Costa,19,0.0,0.0,0.0,1.0,51.0,2,br BRA,0.0,FW,0,Al-Ettifaq
+Abdulellah Al-Malki,29,0.0,0.0,0.0,0.0,45.0,3,sa KSA,0.0,MF,0,Al-Ettifaq
+Abdulbasit Hindi,27,0.0,0.0,0.0,0.0,26.0,2,sa KSA,0.0,DF,0,Al-Ettifaq
+Thamer Al Khaibari,-1,0.0,0.0,0.0,0.0,9.0,2,,0.0,FW,0,Al-Ettifaq
+Majid Duran,-1,,,,,,0,,,MF,0,Al-Ettifaq
+Abdulaziz Al Elewai,20,,,,,,0,sa KSA,,MF,0,Al-Ettifaq
+Khalid Al Ghannam,23,,,,,,0,sa KSA,,MF,0,Al-Ettifaq
+Hassan Al Musallam,-1,,,,,,0,,,DF,0,Al-Ettifaq
+Ahmed Al-Rehaili,29,,,,,,0,sa KSA,,GK,0,Al-Ettifaq
+Bento,25,0.0,0.0,0.0,0.0,360.0,4,br BRA,0.0,GK,4,Al-Nassr
+Sultan Al-Ghanam,30,0.0,0.0,1.0,0.0,360.0,4,sa KSA,0.0,DF,4,Al-Nassr
+Aymeric Laporte,30,0.0,0.0,1.0,0.0,360.0,4,es ESP,0.0,DF,4,Al-Nassr
+Sadio Mané,32,4.0,0.0,0.0,0.0,360.0,4,sn SEN,0.0,MF,4,Al-Nassr
+Cristiano Ronaldo,39,1.0,0.0,0.0,3.0,360.0,4,pt POR,1.0,FW,4,Al-Nassr
+Talisca,30,0.0,0.0,0.0,3.0,347.0,4,br BRA,0.0,MF,4,Al-Nassr
+Otávio,29,0.0,0.0,0.0,0.0,314.0,4,pt POR,0.0,MF,4,Al-Nassr
+Marcelo Brozović,31,0.0,0.0,1.0,1.0,260.0,3,hr CRO,0.0,MF,3,Al-Nassr
+Abdullah Al-Khaibari,28,0.0,0.0,0.0,0.0,251.0,4,sa KSA,0.0,MF,3,Al-Nassr
+Ali Lajami,28,0.0,0.0,1.0,0.0,195.0,3,sa KSA,0.0,DF,2,Al-Nassr
+Alex Telles,31,0.0,0.0,0.0,0.0,180.0,2,br BRA,0.0,DF,2,Al-Nassr
+Mohamed Simakan,24,0.0,0.0,0.0,0.0,142.0,2,fr FRA,0.0,DF,2,Al-Nassr
+Salem Al Najdi,21,0.0,0.0,0.0,1.0,138.0,2,sa KSA,0.0,DF,2,Al-Nassr
+Abdulrahman Ghareeb,27,0.0,0.0,0.0,0.0,139.0,4,sa KSA,0.0,MF,1,Al-Nassr
+Ângelo,19,0.0,0.0,0.0,0.0,56.0,1,br BRA,0.0,MF,1,Al-Nassr
+Nawaf Boushal,25,0.0,0.0,0.0,0.0,42.0,2,sa KSA,0.0,DF,0,Al-Nassr
+Mukhtar Ali,26,0.0,0.0,1.0,0.0,23.0,3,sa KSA,0.0,MF,0,Al-Nassr
+Sami Al-Najei,27,0.0,0.0,0.0,0.0,23.0,1,sa KSA,0.0,MF,0,Al-Nassr
+Abdulmajeed Al-Sulayhem,30,0.0,0.0,0.0,0.0,22.0,1,sa KSA,0.0,MF,0,Al-Nassr
+Mohammed Al Fatil,32,0.0,0.0,0.0,0.0,15.0,2,sa KSA,0.0,DF,0,Al-Nassr
+Mohammed Marran,23,0.0,0.0,0.0,0.0,13.0,1,sa KSA,0.0,FW,0,Al-Nassr
+Ameen Bokhari,27,,,,,,0,sa KSA,,GK,0,Al-Nassr
+Mubarak Al Buainain,18,,,,,,0,sa KSA,,GK,0,Al-Nassr
+Saad Haqawi,18,,,,,,0,sa KSA,,FW,0,Al-Nassr
+Ali Al Hassan,27,,,,,,0,sa KSA,,MF,0,Al-Nassr
+Raghid Najjar,28,,,,,,0,sa KSA,,GK,0,Al-Nassr
+Merih Demiral,26,0.0,0.0,1.0,0.0,360.0,-1,tr TUR,0.0,DF,4,Al-Ahli
+Roger Ibanez,25,1.0,0.0,1.0,0.0,360.0,-1,br BRA,0.0,DF,4,Al-Ahli
+Edouard Mendy,32,0.0,0.0,0.0,0.0,360.0,-1,sn SEN,0.0,GK,4,Al-Ahli
+Franck Kessié,27,1.0,0.0,1.0,1.0,342.0,-1,ci CIV,0.0,MF,4,Al-Ahli
+Ali Majrashi,24,0.0,0.0,1.0,0.0,341.0,-1,sa KSA,0.0,DF,4,Al-Ahli
+Riyad Mahrez,33,0.0,0.0,0.0,0.0,314.0,-1,dz ALG,0.0,MF,4,Al-Ahli
+Ziyad Al Johani,22,0.0,0.0,3.0,0.0,285.0,-1,sa KSA,0.0,MF,4,Al-Ahli
+Roberto Firmino,32,0.0,0.0,0.0,2.0,283.0,-1,br BRA,0.0,MF,3,Al-Ahli
+Gabriel Veiga,22,1.0,0.0,1.0,1.0,230.0,-1,es ESP,0.0,MF,3,Al-Ahli
+Bassam Al Hurayji,24,0.0,0.0,1.0,0.0,194.0,-1,sa KSA,0.0,DF,2,Al-Ahli
+Ivan Toney,28,1.0,0.0,0.0,2.0,180.0,-1,eng ENG,0.0,FW,2,Al-Ahli
+Firas Al-Buraikan,24,1.0,0.0,0.0,0.0,179.0,-1,sa KSA,0.0,MF,2,Al-Ahli
+Abdullah Al-Ammar,30,0.0,0.0,0.0,0.0,164.0,-1,sa KSA,0.0,DF,2,Al-Ahli
+Abdulkarim Darisi,21,0.0,0.0,0.0,1.0,160.0,-1,sa KSA,0.0,FW,2,Al-Ahli
+Sumaihan Al-Nabet,28,0.0,0.0,0.0,0.0,50.0,-1,sa KSA,0.0,MF,0,Al-Ahli
+Alexsander,20,0.0,0.0,0.0,0.0,49.0,-1,br BRA,0.0,MF,0,Al-Ahli
+Yaseen Al Zubaidi,21,0.0,0.0,0.0,0.0,45.0,-1,sa KSA,0.0,FW,0,Al-Ahli
+Fahad Al Rashidi,27,0.0,0.0,0.0,0.0,20.0,-1,sa KSA,0.0,"FW,MF",0,Al-Ahli
+Saad Yaslam,24,0.0,0.0,0.0,0.0,20.0,-1,sa KSA,0.0,DF,0,Al-Ahli
+Ali Al Asmari,27,0.0,0.0,0.0,0.0,18.0,-1,sa KSA,0.0,MF,0,Al-Ahli
+Asiri Haitham,23,0.0,0.0,0.0,0.0,5.0,-1,sa KSA,0.0,FW,0,Al-Ahli
+Fahad Al Hamad,26,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,DF,0,Al-Ahli
+Abdulrahman Al Sanbi,23,,,,,,-1,sa KSA,,GK,0,Al-Ahli
+Mohammed Sulaiman,20,,,,,,-1,sa KSA,,DF,0,Al-Ahli
+Koen Casteels,32,0.0,0.0,0.0,0.0,360.0,-1,be BEL,0.0,GK,4,Al-Qadsiah
+Nacho,34,0.0,0.0,1.0,0.0,360.0,-1,es ESP,0.0,DF,4,Al-Qadsiah
+Nahitan Nández,28,0.0,0.0,2.0,0.0,359.0,-1,uy URU,0.0,MF,4,Al-Qadsiah
+Ezequiél Fernández,22,0.0,0.0,2.0,0.0,346.0,-1,ar ARG,0.0,MF,4,Al-Qadsiah
+Jehad Thakri,23,0.0,0.0,0.0,0.0,333.0,-1,sa KSA,0.0,DF,4,Al-Qadsiah
+Mohammed Waheeb,22,2.0,0.0,0.0,0.0,330.0,-1,sa KSA,0.0,DF,4,Al-Qadsiah
+Gastón Álvarez,24,0.0,0.0,1.0,0.0,291.0,-1,uy URU,0.0,DF,4,Al-Qadsiah
+Pierre-Emerick Aubameyang,35,0.0,0.0,0.0,0.0,255.0,-1,ga GAB,0.0,FW,3,Al-Qadsiah
+Julián Quiñones,27,0.0,1.0,1.0,2.0,220.0,-1,mx MEX,0.0,MF,3,Al-Qadsiah
+Turki Al Ammar,24,1.0,0.0,0.0,1.0,179.0,-1,sa KSA,0.0,MF,3,Al-Qadsiah
+Abdulaziz Al Othman,20,0.0,0.0,0.0,1.0,187.0,-1,sa KSA,0.0,"MF,FW",2,Al-Qadsiah
+Cameron Puertas,26,0.0,0.0,0.0,0.0,158.0,-1,ch SUI,0.0,MF,2,Al-Qadsiah
+Husain Al Qahtani,29,0.0,0.0,1.0,0.0,133.0,-1,sa KSA,0.0,MF,1,Al-Qadsiah
+Iker Almena,20,0.0,0.0,1.0,0.0,83.0,-1,es ESP,0.0,MF,1,Al-Qadsiah
+Ali Hazazi,30,0.0,0.0,0.0,0.0,83.0,-1,sa KSA,0.0,MF,1,Al-Qadsiah
+Mohammed Qassem,29,0.0,0.0,1.0,0.0,114.0,-1,sa KSA,0.0,DF,0,Al-Qadsiah
+Saif Rajab,-1,0.0,0.0,1.0,0.0,69.0,-1,,0.0,FW,0,Al-Qadsiah
+Qassem Lajami,28,0.0,0.0,0.0,0.0,30.0,-1,sa KSA,0.0,DF,0,Al-Qadsiah
+André Carrillo,33,0.0,0.0,0.0,0.0,14.0,-1,pe PER,0.0,"FW,MF",0,Al-Qadsiah
+Abdurahman Al-Dossari,26,0.0,0.0,0.0,0.0,2.0,-1,sa KSA,0.0,MF,0,Al-Qadsiah
+Hussain Al Nattar,24,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,MF,0,Al-Qadsiah
+Abdullah Hassun,27,,,,,,-1,sa KSA,,DF,0,Al-Qadsiah
+Ahmed Al-Kassar,33,,,,,,-1,sa KSA,,GK,0,Al-Qadsiah
+Andrei Girotto,32,0.0,0.0,1.0,0.0,270.0,-1,br BRA,0.0,DF,3,Al-Taawoun
+Aschraf El Mahdioui,28,0.0,0.0,2.0,0.0,270.0,-1,nl NED,0.0,MF,3,Al-Taawoun
+Mailson,28,0.0,0.0,0.0,0.0,270.0,-1,br BRA,0.0,GK,3,Al-Taawoun
+Fahad bin Jumayah,29,1.0,0.0,2.0,0.0,269.0,-1,sa KSA,0.0,DF,3,Al-Taawoun
+Flávio,28,1.0,0.0,1.0,0.0,256.0,-1,br BRA,0.0,MF,3,Al-Taawoun
+João Pedro Pereira dos Santos,31,0.0,0.0,0.0,0.0,246.0,-1,br BRA,0.0,FW,3,Al-Taawoun
+Musa Barrow,25,0.0,0.0,0.0,2.0,245.0,-1,gm GAM,0.0,FW,3,Al-Taawoun
+Saad Al Nasser,23,1.0,0.0,0.0,0.0,220.0,-1,sa KSA,0.0,DF,3,Al-Taawoun
+Fayçal Fajr,36,1.0,0.0,0.0,0.0,188.0,-1,ma MAR,0.0,MF,2,Al-Taawoun
+Muteb Al Mufarrij,28,0.0,0.0,2.0,0.0,180.0,-1,sa KSA,0.0,DF,2,Al-Taawoun
+Awn Al Saluli,26,0.0,1.0,2.0,0.0,167.0,-1,sa KSA,0.0,DF,1,Al-Taawoun
+Sultan Mendash,29,0.0,0.0,0.0,1.0,118.0,-1,sa KSA,0.0,FW,1,Al-Taawoun
+Ahmed Bahusayn,23,0.0,0.0,0.0,0.0,59.0,-1,sa KSA,0.0,MF,1,Al-Taawoun
+Mohammed Al-Kwikbi,29,0.0,0.0,0.0,0.0,58.0,-1,sa KSA,0.0,FW,1,Al-Taawoun
+Waleed Al Ahmad,25,0.0,0.0,0.0,0.0,12.0,-1,sa KSA,0.0,DF,1,Al-Taawoun
+Abdulfattah Adam,29,0.0,0.0,1.0,1.0,69.0,-1,sa KSA,0.0,FW,0,Al-Taawoun
+Ibrahim Al-Shoeil,29,0.0,1.0,0.0,0.0,22.0,-1,sa KSA,0.0,DF,0,Al-Taawoun
+Fahad Al Abdulraziq,-1,0.0,0.0,0.0,0.0,18.0,-1,sa KSA,0.0,DF,0,Al-Taawoun
+Renne Rivas,21,0.0,0.0,0.0,0.0,14.0,-1,ve VEN,0.0,DF,0,Al-Taawoun
+Hattan Bahebri,32,0.0,0.0,0.0,0.0,6.0,-1,sa KSA,0.0,"FW,MF",0,Al-Taawoun
+Sultan Fahran,27,0.0,0.0,0.0,0.0,2.0,-1,sa KSA,0.0,MF,0,Al-Taawoun
+Abdulquddus Atiah,27,,,,,,-1,sa KSA,,GK,0,Al-Taawoun
+Mohammed Bakr,22,,,,,,-1,sa KSA,,DF,0,Al-Taawoun
+Mohammed Al Dhulayfi,24,,,,,,-1,sa KSA,,GK,0,Al-Taawoun
+Anas Al Ghamdi,19,,,,,,-1,sa KSA,,FW,0,Al-Taawoun
+Turki Sheafan,-1,,,,,,-1,sa KSA,,MF,0,Al-Taawoun
+Gustavo Cuellar,31,0.0,0.0,0.0,0.0,270.0,-1,co COL,0.0,DF,3,Al-Shabab
+Cristian Guanca,31,0.0,0.0,0.0,0.0,270.0,-1,ar ARG,0.0,MF,3,Al-Shabab
+Kim Seung-gyu,33,0.0,0.0,1.0,0.0,270.0,-1,kr KOR,0.0,GK,3,Al-Shabab
+Giacomo Bonaventura,35,0.0,0.0,0.0,0.0,262.0,-1,it ITA,0.0,"FW,MF",3,Al-Shabab
+Majed Kanabah,31,1.0,0.0,0.0,1.0,260.0,-1,sa KSA,0.0,MF,3,Al-Shabab
+Nader Al-Sharari,28,1.0,0.0,0.0,0.0,181.0,-1,sa KSA,0.0,DF,2,Al-Shabab
+Yannick Carrasco,31,0.0,0.0,1.0,1.0,180.0,-1,be BEL,0.0,FW,2,Al-Shabab
+Moteb Al-Harbi,-1,0.0,0.0,1.0,0.0,180.0,-1,sa KSA,0.0,DF,2,Al-Shabab
+Wesley Hoedt,30,0.0,0.0,1.0,0.0,180.0,-1,nl NED,0.0,DF,2,Al-Shabab
+Fahad Al Muwallad,30,0.0,0.0,0.0,0.0,180.0,-1,sa KSA,0.0,MF,2,Al-Shabab
+Hussain Al Sibyani,23,0.0,0.0,1.0,0.0,180.0,-1,sa KSA,0.0,MF,2,Al-Shabab
+Haroune Camara,26,0.0,0.0,0.0,0.0,165.0,-1,sa KSA,0.0,FW,2,Al-Shabab
+Nawaf Al Sadi,22,0.0,0.0,0.0,0.0,162.0,-1,sa KSA,0.0,MF,2,Al-Shabab
+Abderrazak Hamdallah,33,0.0,0.0,0.0,0.0,90.0,-1,ma MAR,0.0,FW,1,Al-Shabab
+Robert Renan,20,0.0,0.0,0.0,0.0,23.0,-1,br BRA,0.0,DF,0,Al-Shabab
+Mohammed Al-Thain,-1,0.0,0.0,1.0,0.0,23.0,-1,sa KSA,0.0,FW,0,Al-Shabab
+Majed Abdullah,18,0.0,0.0,0.0,0.0,19.0,-1,sa KSA,0.0,FW,0,Al-Shabab
+Nawaf Al Ghulaimish,-1,0.0,0.0,0.0,0.0,6.0,-1,,0.0,DF,0,Al-Shabab
+Hamad Al Khorayef,18,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,FW,0,Al-Shabab
+Mohammed Al Shwirekh,25,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,DF,0,Al-Shabab
+Mohammed Al Absi,21,,,,,,-1,sa KSA,,GK,0,Al-Shabab
+Nasser Al Bishi,22,,,,,,-1,sa KSA,,FW,0,Al-Shabab
+Mohamed Al Hakeem,-1,,,,,,-1,,,GK,0,Al-Shabab
+Mohammed Hurbush,21,,,,,,-1,sa KSA,,DF,0,Al-Shabab
+Abdullah Al-Mayouf,37,,,,,,-1,sa KSA,,GK,0,Al-Shabab
+Yunus Al Shanqiti,20,,,,,,-1,sa KSA,,MF,0,Al-Shabab
+Ahmed Assiri,32,0.0,0.0,1.0,0.0,270.0,-1,sa KSA,0.0,DF,3,Al-Riyadh-SC
+Milan Borjan,36,0.0,0.0,0.0,0.0,270.0,-1,ca CAN,0.0,GK,3,Al-Riyadh-SC
+Lucas Kal,28,1.0,0.0,1.0,1.0,270.0,-1,br BRA,0.0,"MF,DF",3,Al-Riyadh-SC
+Abdulelah Al Khaibari,-1,0.0,0.0,1.0,0.0,270.0,-1,,0.0,DF,3,Al-Riyadh-SC
+Tozé,31,1.0,0.0,1.0,0.0,270.0,-1,pt POR,0.0,MF,3,Al-Riyadh-SC
+Ibrahim Bayesh,24,0.0,0.0,0.0,2.0,256.0,-1,iq IRQ,0.0,MF,3,Al-Riyadh-SC
+Faïz Selemani,30,0.0,0.0,0.0,0.0,251.0,-1,km COM,0.0,"MF,DF",3,Al-Riyadh-SC
+Bernard Mensah,29,1.0,0.0,0.0,1.0,220.0,-1,gh GHA,0.0,MF,2,Al-Riyadh-SC
+Mohamed Konaté,26,0.0,0.0,0.0,0.0,166.0,-1,bf BFA,0.0,FW,2,Al-Riyadh-SC
+Marzouq Tambakti,21,0.0,0.0,0.0,0.0,155.0,-1,sa KSA,0.0,DF,2,Al-Riyadh-SC
+Yoann Barbet,31,0.0,0.0,0.0,0.0,115.0,-1,fr FRA,0.0,DF,1,Al-Riyadh-SC
+Mohammed Saleh,24,0.0,0.0,1.0,1.0,104.0,-1,sa KSA,0.0,FW,1,Al-Riyadh-SC
+Hussain Al Nuweqi,28,0.0,1.0,0.0,0.0,86.0,-1,sa KSA,0.0,DF,1,Al-Riyadh-SC
+Yazeid Al Bakr,28,0.0,0.0,1.0,0.0,63.0,-1,sa KSA,0.0,DF,1,Al-Riyadh-SC
+Yahya Al-Shehri,34,0.0,0.0,0.0,0.0,62.0,-1,sa KSA,0.0,MF,1,Al-Riyadh-SC
+Nawaf Al Abed,34,0.0,0.0,0.0,0.0,45.0,-1,sa KSA,0.0,MF,1,Al-Riyadh-SC
+Suwailem Al Manhali,20,0.0,0.0,0.0,0.0,46.0,-1,sa KSA,0.0,DF,0,Al-Riyadh-SC
+Mohammed Al Aqeel,27,0.0,0.0,0.0,0.0,18.0,-1,sa KSA,0.0,MF,0,Al-Riyadh-SC
+Rayan Al Bloushi,23,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,FW,0,Al-Riyadh-SC
+Nawaf Al-Hawsawi,-1,,,,,,-1,,,MF,0,Al-Riyadh-SC
+Bader Al Mutairi,20,,,,,,-1,sa KSA,,MF,0,Al-Riyadh-SC
+Ziyad Al-Sahafi,29,,,,,,-1,sa KSA,,DF,0,Al-Riyadh-SC
+Abdullah Al-Hafith,31,0.0,0.0,1.0,0.0,360.0,-1,sa KSA,0.0,DF,4,Al-Wehda
+Saeed Al Mowalad,33,0.0,0.0,1.0,0.0,360.0,-1,sa KSA,0.0,DF,4,Al-Wehda
+Jawad El Yamiq,32,0.0,0.0,0.0,0.0,360.0,-1,ma MAR,0.0,DF,4,Al-Wehda
+Craig Goodwin,32,1.0,0.0,0.0,2.0,282.0,-1,au AUS,0.0,MF,4,Al-Wehda
+Odion Ighalo,35,0.0,0.0,0.0,1.0,236.0,-1,ng NGA,0.0,FW,4,Al-Wehda
+Youssef Amyn,21,0.0,0.0,0.0,1.0,270.0,-1,iq IRQ,0.0,MF,3,Al-Wehda
+Mohamed Al Makaazi,29,1.0,0.0,1.0,0.0,259.0,-1,ma MAR,0.0,MF,3,Al-Wehda
+Alexandru Crețu,32,1.0,0.0,1.0,0.0,214.0,-1,ro ROU,0.0,MF,2,Al-Wehda
+Yahya Naji,25,0.0,0.0,1.0,0.0,213.0,-1,sa KSA,0.0,MF,2,Al-Wehda
+Alaa Al Hejji,28,1.0,0.0,0.0,0.0,191.0,-1,sa KSA,0.0,MF,2,Al-Wehda
+Ignacio De Arruabarrena,27,0.0,0.0,0.0,0.0,180.0,-1,uy URU,0.0,GK,2,Al-Wehda
+Bandar Derwish,22,0.0,1.0,2.0,0.0,147.0,-1,sa KSA,0.0,DF,2,Al-Wehda
+Ali Makki,25,0.0,0.0,0.0,0.0,143.0,-1,sa KSA,0.0,DF,2,Al-Wehda
+Nawaf Al-Azizi,25,0.0,0.0,0.0,0.0,80.0,-1,sa KSA,0.0,MF,2,Al-Wehda
+Juninho Bacuna,27,0.0,0.0,1.0,0.0,137.0,-1,cw CUW,0.0,MF,1,Al-Wehda
+Waleed Bakshween,34,0.0,0.0,0.0,0.0,90.0,-1,sa KSA,0.0,MF,1,Al-Wehda
+Abdullah Al-Owaishir,33,0.0,0.0,0.0,0.0,90.0,-1,sa KSA,0.0,GK,1,Al-Wehda
+Abdulrahman Al Shammari,24,0.0,0.0,1.0,0.0,90.0,-1,sa KSA,0.0,GK,1,Al-Wehda
+Mourad Khodari,21,0.0,0.0,1.0,2.0,107.0,-1,sa KSA,0.0,FW,0,Al-Wehda
+Abdulaziz Noor,25,0.0,0.0,1.0,0.0,81.0,-1,sa KSA,0.0,MF,0,Al-Wehda
+Vito van Crooy,28,0.0,0.0,0.0,0.0,25.0,-1,nl NED,0.0,"FW,MF",0,Al-Wehda
+Saad Bguir,30,0.0,0.0,0.0,0.0,11.0,-1,tn TUN,0.0,"FW,MF",0,Al-Wehda
+Hussain Al Essa,23,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,MF,0,Al-Wehda
+Mishal Al Alaeli,20,,,,,,-1,sa KSA,,DF,0,Al-Wehda
+Abdullah Fallatah,17,,,,,,-1,sa KSA,,GK,0,Al-Wehda
+Saad Al Qahtani,-1,,,,,,-1,,,,0,Al-Wehda
+Ahmed Al Rashidi,22,,,,,,-1,sa KSA,,GK,0,Al-Wehda
+Ali Ayesh Al-Salem,26,,,,,,-1,sa KSA,,DF,0,Al-Wehda
+Mohamed Al Sufyani,18,,,,,,-1,sa KSA,,DF,0,Al-Wehda
+Aliou Dieng,26,0.0,0.0,1.0,1.0,360.0,4,ml MLI,0.0,MF,4,Al-Kholood-Saudi-Club
+Marcelo Grohe,37,0.0,0.0,0.0,0.0,360.0,4,br BRA,0.0,GK,4,Al-Kholood-Saudi-Club
+Norbert Gyömbér,32,0.0,0.0,0.0,0.0,360.0,4,sk SVK,0.0,DF,4,Al-Kholood-Saudi-Club
+William Troost-Ekong,31,0.0,0.0,0.0,0.0,360.0,4,ng NGA,0.0,DF,4,Al-Kholood-Saudi-Club
+Álex Collado,25,0.0,0.0,0.0,3.0,358.0,4,es ESP,0.0,"MF,FW",4,Al-Kholood-Saudi-Club
+Myziane Maolida,25,0.0,0.0,0.0,1.0,343.0,4,km COM,1.0,"FW,MF",4,Al-Kholood-Saudi-Club
+Abdulrahman Al Safari,31,0.0,0.0,0.0,0.0,330.0,4,sa KSA,0.0,MF,4,Al-Kholood-Saudi-Club
+Abdullah Hawsawi,28,2.0,0.0,1.0,0.0,285.0,4,sa KSA,0.0,"MF,DF",4,Al-Kholood-Saudi-Club
+Jackson Muleka,24,0.0,0.0,1.0,0.0,284.0,4,cd COD,0.0,FW,3,Al-Kholood-Saudi-Club
+Hamdan Al-Shamrani,27,0.0,0.0,1.0,0.0,259.0,4,sa KSA,0.0,"DF,MF",3,Al-Kholood-Saudi-Club
+Mohammed Jahfali,33,0.0,0.0,0.0,0.0,137.0,3,sa KSA,0.0,DF,2,Al-Kholood-Saudi-Club
+Mohammed Somaili,24,0.0,0.0,0.0,0.0,152.0,4,sa KSA,0.0,FW,1,Al-Kholood-Saudi-Club
+Kévin N'Doram,28,0.0,0.0,0.0,0.0,126.0,2,fr FRA,0.0,MF,1,Al-Kholood-Saudi-Club
+Jamaan Al-Dossari,31,0.0,0.0,1.0,0.0,93.0,3,sa KSA,0.0,DF,1,Al-Kholood-Saudi-Club
+Sultan Al Shehri,29,0.0,0.0,0.0,0.0,74.0,2,sa KSA,0.0,MF,1,Al-Kholood-Saudi-Club
+Hamam Al Hamami,-1,0.0,0.0,1.0,0.0,54.0,4,,0.0,MF,0,Al-Kholood-Saudi-Club
+Riyadh Al-Ibrahim,30,0.0,0.0,0.0,0.0,17.0,1,sa KSA,0.0,MF,0,Al-Kholood-Saudi-Club
+Abdullah Al-Rashidi,-1,0.0,0.0,0.0,0.0,8.0,1,sa KSA,0.0,MF,0,Al-Kholood-Saudi-Club
+Jassim Al Ashban,30,,,,,,0,sa KSA,,GK,0,Al-Kholood-Saudi-Club
+Abdulfattah Asiri,30,,,,,,0,sa KSA,,MF,0,Al-Kholood-Saudi-Club
+Hassan Al Asmari,21,,,,,,0,sa KSA,,DF,0,Al-Kholood-Saudi-Club
+Abdulmalik Al Harbi,18,,,,,,0,sa KSA,,FW,0,Al-Kholood-Saudi-Club
+Majed Khalifa,20,,,,,,0,sa KSA,,FW,0,Al-Kholood-Saudi-Club
+Mohammed Al Shammari,32,,,,,,0,sa KSA,,GK,0,Al-Kholood-Saudi-Club
+Gaëtan Coucke,25,0.0,0.0,0.0,0.0,360.0,-1,be BEL,0.0,GK,4,Al-Orobah
+Karlo Muhar,28,0.0,0.0,2.0,0.0,360.0,-1,hr CRO,0.0,MF,4,Al-Orobah
+Hamed Al Maqati,-1,1.0,0.0,1.0,0.0,355.0,-1,sa KSA,0.0,"DF,MF",4,Al-Orobah
+Jóhann Berg Guðmundsson,33,1.0,0.0,2.0,1.0,351.0,-1,is ISL,0.0,"MF,FW",4,Al-Orobah
+Emmanuel Boateng,28,1.0,0.0,0.0,1.0,335.0,-1,gh GHA,0.0,FW,4,Al-Orobah
+Ibrahim Al-Zubaidi,35,0.0,0.0,1.0,0.0,328.0,-1,sa KSA,0.0,DF,4,Al-Orobah
+Hussein Al Shuwaysh,35,1.0,0.0,1.0,0.0,286.0,-1,sa KSA,0.0,DF,3,Al-Orobah
+Jean Seri,33,0.0,0.0,0.0,1.0,270.0,-1,ci CIV,0.0,MF,3,Al-Orobah
+Fahad Al Zubidi,22,0.0,0.0,1.0,0.0,247.0,-1,sa KSA,0.0,"FW,MF",3,Al-Orobah
+Fahad Al-Rashidi,33,0.0,0.0,1.0,0.0,219.0,-1,sa KSA,0.0,MF,3,Al-Orobah
+Zeyad Al Hunayti,27,0.0,0.0,0.0,1.0,180.0,-1,sa KSA,0.0,DF,2,Al-Orobah
+Kurt Zouma,29,0.0,0.0,0.0,0.0,180.0,-1,fr FRA,0.0,DF,2,Al-Orobah
+Cristian Tello,33,0.0,0.0,0.0,1.0,158.0,-1,es ESP,0.0,MF,2,Al-Orobah
+Ismaël Kandouss,26,0.0,0.0,0.0,0.0,90.0,-1,ma MAR,0.0,DF,1,Al-Orobah
+Abdulrahman Al Anzi,-1,0.0,0.0,0.0,0.0,52.0,-1,sa KSA,0.0,DF,1,Al-Orobah
+Abdulmalek Al-Shammeri,29,0.0,0.0,0.0,0.0,70.0,-1,sa KSA,0.0,"DF,MF",0,Al-Orobah
+Sattam Al Ruqi,22,0.0,0.0,0.0,0.0,57.0,-1,sa KSA,0.0,MF,0,Al-Orobah
+Brad Young,21,0.0,0.0,0.0,0.0,35.0,-1,eng ENG,0.0,FW,0,Al-Orobah
+Mohammed Al-Qarni,34,0.0,0.0,0.0,0.0,16.0,-1,sa KSA,0.0,MF,0,Al-Orobah
+Mohammed Barnawi,19,0.0,0.0,0.0,0.0,4.0,-1,sa KSA,0.0,DF,0,Al-Orobah
+Fraj Al Rashid,20,0.0,0.0,0.0,0.0,4.0,-1,sa KSA,0.0,FW,0,Al-Orobah
+Mohammed Al-Saiari,31,0.0,0.0,0.0,0.0,2.0,-1,sa KSA,0.0,FW,0,Al-Orobah
+Nawaf Al Qamiri,23,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,DF,0,Al-Orobah
+Mashel Al Ruaili,23,,,,,,-1,sa KSA,,DF,0,Al-Orobah
+Rafea Al-Ruwaili,34,,,,,,-1,sa KSA,,GK,0,Al-Orobah
+Saud Al Ruwaili,19,,,,,,-1,sa KSA,,GK,0,Al-Orobah
+Omar Al Sharari,21,,,,,,-1,sa KSA,,FW,0,Al-Orobah
+Fawaz Al Terais,24,,,,,,-1,sa KSA,,MF,0,Al-Orobah
+Saleh Al-Amri,30,2.0,0.0,0.0,1.0,270.0,-1,sa KSA,0.0,"FW,MF",3,Al-Raed
+Mohammed Al Dossary,25,0.0,0.0,1.0,0.0,270.0,-1,sa KSA,0.0,"DF,MF",3,Al-Raed
+Mohamed Fouzair,32,0.0,0.0,1.0,2.0,270.0,-1,ma MAR,1.0,"MF,FW",3,Al-Raed
+Oumar Gonzalez,26,0.0,0.0,1.0,0.0,270.0,-1,cm CMR,0.0,DF,3,Al-Raed
+Meshari Sunyur,22,0.0,0.0,0.0,0.0,270.0,-1,sa KSA,0.0,GK,3,Al-Raed
+Hamad Al-Jizani,31,0.0,0.0,1.0,0.0,260.0,-1,sa KSA,0.0,DF,3,Al-Raed
+Mathias Normann,28,0.0,0.0,1.0,0.0,222.0,-1,no NOR,0.0,MF,3,Al-Raed
+Yahya Sunbul,26,0.0,0.0,0.0,0.0,196.0,-1,sa KSA,0.0,"MF,DF",3,Al-Raed
+Khalid Al Subaie,24,0.0,0.0,1.0,0.0,227.0,-1,sa KSA,0.0,MF,2,Al-Raed
+Mobarak Al Rajeh,21,0.0,0.0,1.0,0.0,187.0,-1,sa KSA,0.0,DF,2,Al-Raed
+Amir Sayoud,34,2.0,0.0,0.0,0.0,179.0,-1,dz ALG,0.0,FW,2,Al-Raed
+Nawaf Al Sahli,21,0.0,0.0,1.0,0.0,91.0,-1,sa KSA,0.0,FW,1,Al-Raed
+Mehdi Abeid,32,0.0,0.0,0.0,0.0,83.0,-1,dz ALG,0.0,MF,1,Al-Raed
+Ayoub Qasmi,31,0.0,0.0,0.0,0.0,83.0,-1,ma MAR,0.0,DF,1,Al-Raed
+Karim El Berkaoui,28,0.0,0.0,0.0,2.0,66.0,-1,ma MAR,0.0,"FW,MF",0,Al-Raed
+Rakan Al Dosari,22,0.0,0.0,0.0,0.0,8.0,-1,sa KSA,0.0,FW,0,Al-Raed
+Zakaria Al Hosawi,-1,0.0,0.0,0.0,0.0,7.0,-1,sa KSA,0.0,DF,0,Al-Raed
+Anas Al Zahrani,-1,0.0,0.0,0.0,0.0,7.0,-1,,0.0,MF,0,Al-Raed
+Raed Al-Ghamdi,30,0.0,0.0,0.0,0.0,3.0,-1,sa KSA,0.0,"FW,MF",0,Al-Raed
+Bander Whaeshi,22,0.0,0.0,0.0,0.0,1.0,-1,sa KSA,0.0,DF,0,Al-Raed
+Basil Al Anzi,15,,,,,,-1,sa KSA,,GK,0,Al-Raed
+Abdullah Hazazi,29,,,,,,-1,sa KSA,,DF,0,Al-Raed
+Saleh Al Ohaymid,26,,,,,,-1,sa KSA,,GK,0,Al-Raed
+Abdullah Al Rawdhan,19,,,,,,-1,sa KSA,,DF,0,Al-Raed
+Omar Shami,-1,,,,,,-1,,,MF,0,Al-Raed
+Mubarak Al Shayie,18,,,,,,-1,sa KSA,,DF,0,Al-Raed
+Mohammed Al-Khabrani,30,0.0,0.0,0.0,0.0,360.0,-1,sa KSA,0.0,DF,4,Al-Khaleej
+Khaled Narey,30,0.0,0.0,0.0,0.0,360.0,-1,tg TOG,0.0,MF,4,Al-Khaleej
+Pedro Rebocho,29,0.0,0.0,0.0,0.0,360.0,-1,pt POR,0.0,DF,4,Al-Khaleej
+Ibrahim Šehić,36,0.0,0.0,1.0,0.0,360.0,-1,ba BIH,0.0,GK,4,Al-Khaleej
+Fábio Martins,31,0.0,0.0,1.0,0.0,316.0,-1,pt POR,0.0,MF,4,Al-Khaleej
+Khaled Al-Sumairi,27,0.0,0.0,1.0,0.0,258.0,-1,sa KSA,0.0,MF,4,Al-Khaleej
+Abdullah Al-Fahad,30,0.0,0.0,1.0,0.0,287.0,-1,sa KSA,0.0,DF,3,Al-Khaleej
+Mansor Hamzi,32,0.0,0.0,0.0,0.0,283.0,-1,sa KSA,0.0,MF,3,Al-Khaleej
+Saeed Al Hamsal,28,0.0,0.0,1.0,0.0,253.0,-1,sa KSA,0.0,DF,3,Al-Khaleej
+Dimitrios Kourbelis,30,0.0,0.0,1.0,0.0,210.0,-1,gr GRE,0.0,MF,2,Al-Khaleej
+Saleh Waheeb,22,0.0,0.0,0.0,0.0,181.0,-1,sa KSA,0.0,MF,2,Al-Khaleej
+Marcel Tisserand,31,0.0,0.0,0.0,0.0,165.0,-1,cd COD,0.0,DF,2,Al-Khaleej
+Mohamed Sherif,28,0.0,0.0,0.0,0.0,137.0,-1,eg EGY,0.0,FW,2,Al-Khaleej
+Abdulla Al Salem,31,0.0,0.0,0.0,0.0,126.0,-1,sa KSA,0.0,FW,1,Al-Khaleej
+Hisham Al Dubais,22,0.0,0.0,1.0,0.0,115.0,-1,sa KSA,0.0,FW,1,Al-Khaleej
+Kostas Fortounis,31,0.0,0.0,0.0,0.0,109.0,-1,gr GRE,0.0,MF,1,Al-Khaleej
+Murad Al Hawsawi,23,0.0,0.0,0.0,0.0,57.0,-1,sa KSA,0.0,MF,0,Al-Khaleej
+Arif Al Haydar,27,0.0,0.0,0.0,0.0,16.0,-1,sa KSA,0.0,DF,0,Al-Khaleej
+Bander Nasser,34,0.0,0.0,0.0,0.0,7.0,-1,sa KSA,0.0,DF,0,Al-Khaleej
+Theyab Absa,-1,,,,,,-1,,,,0,Al-Khaleej
+Marwan Al Haidari,28,,,,,,-1,sa KSA,,GK,0,Al-Khaleej
+Raed Ozaybi,22,,,,,,-1,sa KSA,,GK,0,Al-Khaleej
+Ali Al Shaafi,-1,,,,,,-1,,,DF,0,Al-Khaleej
+Abdelkader Bedrane,32,1.0,0.0,0.0,0.0,360.0,-1,dz ALG,0.0,DF,4,Damac
+Farouk Chafaï,34,0.0,0.0,0.0,1.0,360.0,-1,dz ALG,0.0,DF,4,Damac
+Georges-Kévin N'Koudou,29,0.0,0.0,1.0,2.0,360.0,-1,cm CMR,1.0,"MF,FW",4,Damac
+Nicolae Stanciu,31,1.0,0.0,1.0,0.0,352.0,-1,ro ROU,0.0,MF,4,Damac
+Ramzi Sawlan,26,2.0,0.0,1.0,0.0,317.0,-1,sa KSA,0.0,"MF,FW",4,Damac
+Dhari Al Anazi,24,0.0,0.0,3.0,0.0,290.0,-1,sa KSA,0.0,DF,4,Damac
+Florin Niță,37,0.0,0.0,1.0,0.0,270.0,-1,ro ROU,0.0,GK,3,Damac
+François Kamano,28,0.0,0.0,0.0,1.0,260.0,-1,gn GUI,0.0,"MF,FW",3,Damac
+Habib Diallo,29,0.0,0.0,0.0,1.0,191.0,-1,sn SEN,0.0,FW,3,Damac
+Tarek Hamed,35,0.0,0.0,0.0,0.0,180.0,-1,eg EGY,0.0,MF,2,Damac
+Ayman Fallatah,20,0.0,0.0,1.0,1.0,157.0,-1,sa KSA,0.0,MF,2,Damac
+Hazzaa Al Ghamdi,23,0.0,0.0,0.0,0.0,144.0,-1,sa KSA,0.0,"MF,FW",2,Damac
+Noor Al Rashidi,29,0.0,0.0,0.0,0.0,135.0,-1,sa KSA,0.0,DF,1,Damac
+Abdulbasit Hawsawi,27,0.0,0.0,0.0,0.0,90.0,-1,sa KSA,0.0,GK,1,Damac
+Sanousi Al Hawsawi,25,0.0,0.0,0.0,0.0,90.0,-1,sa KSA,0.0,DF,1,Damac
+Bader Monshi,25,0.0,0.0,0.0,0.0,85.0,-1,sa KSA,0.0,MF,1,Damac
+Sultan Faqihi,29,0.0,0.0,0.0,0.0,62.0,-1,sa KSA,0.0,DF,1,Damac
+Meshari Al Nimr,-1,0.0,0.0,0.0,0.0,85.0,-1,sa KSA,0.0,FW,0,Damac
+Abdurahman Al-Obaid,31,0.0,0.0,0.0,0.0,77.0,-1,sa KSA,0.0,DF,0,Damac
+Ahmed Haresai,24,0.0,0.0,0.0,0.0,36.0,-1,sa KSA,0.0,FW,0,Damac
+Tariq Mohammed,29,0.0,0.0,0.0,0.0,21.0,-1,sa KSA,0.0,"DF,MF",0,Damac
+Faisal Al Subiani,21,0.0,0.0,0.0,0.0,21.0,-1,sa KSA,0.0,MF,0,Damac
+Abdullah Al Mugren,27,0.0,0.0,0.0,0.0,15.0,-1,sa KSA,0.0,MF,0,Damac
+Mohammed Alkhaibari,-1,0.0,0.0,1.0,0.0,2.0,-1,sa KSA,0.0,DF,0,Damac
+Nasser Al Ghamdi,23,,,,,,-1,sa KSA,,GK,0,Damac
+Jawad Al Hassan,-1,,,,,,-1,,,FW,0,Damac
+Jason Denayer,29,0.0,0.0,1.0,0.0,360.0,4,be BEL,0.0,DF,4,Al-Fateh
+Marwane Saâdane,32,0.0,0.0,1.0,0.0,360.0,4,ma MAR,0.0,DF,4,Al-Fateh
+Péter Szappanos,33,0.0,0.0,0.0,0.0,360.0,4,hu HUN,0.0,GK,4,Al-Fateh
+Lucas Zelarayán,32,1.0,0.0,1.0,0.0,355.0,4,am ARM,0.0,MF,4,Al-Fateh
+Saeed Ba Atiyah,-1,0.0,0.0,1.0,0.0,340.0,4,,0.0,DF,4,Al-Fateh
+Djaniny,33,0.0,0.0,0.0,2.0,329.0,4,cv CPV,0.0,FW,4,Al-Fateh
+Sofiane Bendebka,32,0.0,0.0,0.0,0.0,221.0,3,dz ALG,0.0,MF,3,Al-Fateh
+Nooh Al-Mousa,33,1.0,0.0,0.0,0.0,215.0,3,sa KSA,0.0,MF,3,Al-Fateh
+Othman Al Othman,21,0.0,0.0,0.0,0.0,206.0,4,sa KSA,0.0,MF,3,Al-Fateh
+Mourad Batna,34,0.0,0.0,0.0,0.0,225.0,3,ma MAR,0.0,MF,2,Al-Fateh
+Mohammed Al Kunaydiri,23,0.0,0.0,0.0,0.0,160.0,2,sa KSA,0.0,DF,2,Al-Fateh
+Suhayb Al Zaid,20,0.0,0.0,0.0,0.0,146.0,3,sa KSA,0.0,MF,1,Al-Fateh
+Ahmed Al Julaydan,20,0.0,0.0,0.0,0.0,110.0,2,sa KSA,0.0,DF,1,Al-Fateh
+Mohamed Amine Sbai,23,0.0,0.0,0.0,0.0,101.0,2,fr FRA,0.0,MF,1,Al-Fateh
+Mohammed Al-Fuhaid,34,0.0,0.0,0.0,0.0,101.0,2,sa KSA,0.0,MF,1,Al-Fateh
+Hussain Al Zarie,19,0.0,0.0,0.0,0.0,90.0,1,sa KSA,0.0,DF,1,Al-Fateh
+Abdullah Al Anazi,21,0.0,0.0,0.0,0.0,87.0,3,sa KSA,0.0,MF,1,Al-Fateh
+Ali Al Jassem,23,0.0,0.0,0.0,0.0,54.0,1,sa KSA,0.0,MF,1,Al-Fateh
+Saad Al Shurafa,19,0.0,0.0,0.0,0.0,80.0,3,sa KSA,0.0,FW,0,Al-Fateh
+Ammar Al-Daheem,31,0.0,0.0,0.0,0.0,29.0,3,sa KSA,0.0,DF,0,Al-Fateh
+Naif Masoud,23,0.0,0.0,0.0,0.0,21.0,2,sa KSA,0.0,MF,0,Al-Fateh
+Muntathir Al Shaqaq,19,0.0,0.0,0.0,0.0,10.0,1,sa KSA,0.0,DF,0,Al-Fateh
+Faisal Al Abdulwahed,19,,,,,,0,sa KSA,,FW,0,Al-Fateh
+Waleed Al-Enezi,28,,,,,,0,sa KSA,,GK,0,Al-Fateh
+Ziyad Al Jari,22,,,,,,0,sa KSA,,DF,0,Al-Fateh
+Mahdi Al Obod,18,,,,,,0,sa KSA,,FW,0,Al-Fateh
+Paulo Vítor Fagundes dos Anjos,35,0.0,0.0,0.0,0.0,360.0,-1,br BRA,0.0,GK,4,Al-Okhdood-SC
+Juan Pedroza,25,0.0,0.0,1.0,0.0,360.0,-1,co COL,0.0,MF,4,Al-Okhdood-SC
+Saeed Al Rubaie,30,0.0,0.0,1.0,0.0,360.0,-1,sa KSA,0.0,DF,4,Al-Okhdood-SC
+Saviour Godwin,28,0.0,0.0,0.0,0.0,315.0,-1,ng NGA,0.0,"MF,FW",4,Al-Okhdood-SC
+Awadh Khames,36,0.0,0.0,0.0,0.0,315.0,-1,sa KSA,0.0,DF,3,Al-Okhdood-SC
+Hussian Al Zabdani,29,0.0,0.0,2.0,0.0,270.0,-1,sa KSA,0.0,DF,3,Al-Okhdood-SC
+Naif Asiri,23,0.0,0.0,1.0,0.0,260.0,-1,sa KSA,0.0,DF,3,Al-Okhdood-SC
+Eid Al Muwallad,22,0.0,0.0,1.0,0.0,247.0,-1,sa KSA,0.0,MF,3,Al-Okhdood-SC
+Abdulaziz Hetalh,25,0.0,0.0,0.0,0.0,233.0,-1,sa KSA,0.0,"MF,FW",3,Al-Okhdood-SC
+Christian Bassogog,28,0.0,0.0,0.0,0.0,179.0,-1,cm CMR,0.0,MF,2,Al-Okhdood-SC
+Ibrahima Koné,25,0.0,0.0,0.0,0.0,164.0,-1,ml MLI,0.0,FW,2,Al-Okhdood-SC
+Saud Salem,19,0.0,0.0,0.0,0.0,161.0,-1,sa KSA,0.0,MF,2,Al-Okhdood-SC
+Mohamed Nayef,25,0.0,0.0,0.0,0.0,175.0,-1,sa KSA,0.0,MF,1,Al-Okhdood-SC
+Knowledge Musona,34,0.0,0.0,0.0,1.0,148.0,-1,zw ZIM,0.0,MF,1,Al-Okhdood-SC
+Petros,35,0.0,0.0,0.0,0.0,113.0,-1,br BRA,0.0,MF,1,Al-Okhdood-SC
+Damion Lowe,31,0.0,1.0,2.0,0.0,89.0,-1,jm JAM,0.0,DF,1,Al-Okhdood-SC
+Muhannad Al Qaidhi,26,0.0,0.0,0.0,0.0,86.0,-1,sa KSA,0.0,DF,1,Al-Okhdood-SC
+Ghassan Hawsawi,21,0.0,0.0,1.0,0.0,59.0,-1,sa KSA,0.0,DF,1,Al-Okhdood-SC
+Mohammed Al-Saeed,27,0.0,0.0,0.0,0.0,45.0,-1,sa KSA,0.0,DF,1,Al-Okhdood-SC
+Saleh Al Harthi,29,0.0,0.0,0.0,0.0,15.0,-1,sa KSA,0.0,MF,0,Al-Okhdood-SC
+Saif Balhareth,18,0.0,0.0,0.0,0.0,5.0,-1,sa KSA,0.0,MF,0,Al-Okhdood-SC
+Ahmed Al Daghrir,17,,,,,,-1,sa KSA,,MF,0,Al-Okhdood-SC
+Saad Al Garni,22,,,,,,-1,sa KSA,,GK,0,Al-Okhdood-SC
+Rakan Najjar,29,,,,,,-1,sa KSA,,GK,0,Al-Okhdood-SC
+Faris Abdi,25,0.0,0.0,2.0,0.0,360.0,-1,sa KSA,0.0,DF,4,Al-Fayha
+Sami Al-Khaibari,35,0.0,0.0,0.0,0.0,360.0,-1,sa KSA,0.0,DF,4,Al-Fayha
+Fashion Sakala,27,0.0,0.0,0.0,1.0,360.0,-1,zm ZAM,0.0,"FW,MF",4,Al-Fayha
+Makhir Saleh,25,0.0,0.0,1.0,0.0,315.0,-1,sa KSA,0.0,DF,3,Al-Fayha
+Nawaf Al Harthi,25,0.0,0.0,0.0,0.0,239.0,-1,sa KSA,0.0,"MF,FW",3,Al-Fayha
+Jacob Mendy,27,0.0,0.0,2.0,0.0,226.0,-1,sa KSA,0.0,MF,3,Al-Fayha
+Mohamed Al Dowaish,20,0.0,0.0,1.0,0.0,225.0,-1,sa KSA,0.0,DF,3,Al-Fayha
+Khaled Al Rammah,19,0.0,0.0,0.0,0.0,197.0,-1,sa KSA,0.0,MF,2,Al-Fayha
+Alejandro Pozuelo,33,1.0,0.0,0.0,0.0,190.0,-1,es ESP,0.0,MF,2,Al-Fayha
+Abdulraouf Al Duqayl,29,0.0,0.0,0.0,0.0,180.0,-1,sa KSA,0.0,GK,2,Al-Fayha
+Orlando Mosquera,29,0.0,0.0,0.0,0.0,180.0,-1,pa PAN,0.0,GK,2,Al-Fayha
+Gojko Cimirot,31,0.0,0.0,0.0,0.0,179.0,-1,ba BIH,0.0,MF,2,Al-Fayha
+Mansor Al Beshe,24,0.0,0.0,0.0,0.0,178.0,-1,sa KSA,0.0,MF,2,Al-Fayha
+Renzo López,30,0.0,0.0,1.0,0.0,161.0,-1,uy URU,0.0,FW,2,Al-Fayha
+Ali Al Hussien,-1,0.0,0.0,1.0,0.0,149.0,-1,,0.0,MF,2,Al-Fayha
+Otabek Shukurov,28,0.0,0.0,1.0,0.0,135.0,-1,uz UZB,0.0,MF,1,Al-Fayha
+Khalid Kaabi,32,0.0,0.0,0.0,0.0,112.0,-1,sa KSA,0.0,MF,1,Al-Fayha
+Mohammed Al Baqawi,29,0.0,0.0,0.0,0.0,90.0,-1,sa KSA,0.0,DF,1,Al-Fayha
+Chris Smalling,34,0.0,1.0,0.0,0.0,53.0,-1,eng ENG,0.0,DF,1,Al-Fayha
+Aldry Contreras,20,0.0,0.0,0.0,0.0,19.0,-1,ve VEN,0.0,MF,0,Al-Fayha
+Abdulhadi Al-Harajin,29,0.0,0.0,0.0,0.0,11.0,-1,sa KSA,0.0,MF,0,Al-Fayha
+Reda Al Abdullah,-1,0.0,0.0,0.0,0.0,4.0,-1,,0.0,MF,0,Al-Fayha
+Malek Al Abadalmanam,26,,,,,,-1,sa KSA,,MF,0,Al-Fayha
+Saud bin Zaydan,24,,,,,,-1,sa KSA,,MF,0,Al-Fayha
+Vinicius Rangel,20,,,,,,-1,br BRA,,DF,0,Al-Fayha
+Sattam Al Shamari,-1,,,,,,-1,,,GK,0,Al-Fayha
+Osama Al Turki,-1,,,,,,-1,,,,0,Al-Fayha
