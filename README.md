@@ -14,3 +14,14 @@ This project is a web application that allows users to check player statistics f
 - **Database**: PostgreSQL 
 - **Frontend (TODO)**: React.js, HTML, CSS, JavaScript
 - **Machine Learning (TODO)**: Scikit-learn/PyTorch/TensorFlow 
+
+## Backend Queries Exampels
+### Search by Name
+![Alt text](demoImages/name_query.png)
+
+
+### Search by Position
+![Alt text](demoImages/position_query.png)
+
+## Search by team
+![Alt text](demoImages/team_query.png)
